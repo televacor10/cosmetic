@@ -22,7 +22,7 @@ body{
     background-size: cover;
     background-position: center;
     background-image: linear-gradient(rgba(0, 0, 12, 0.53), rgba(123, 0, 0, 0.35)),
-    url("/image/final.png");
+    url("./image/final.png");
     overflow: hidden;
 
 }
